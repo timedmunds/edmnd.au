@@ -12,3 +12,5 @@ This is long-form thinking.
 I design enterprise systems by day.
 
 I still tinker at night.
+
+This site will be my long-form technical notebook.
